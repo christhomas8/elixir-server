@@ -1,10 +1,12 @@
 # elixir-server
 
 <h3>Purpose:</h3>
-  <p>This project demonstrates how to create a basic HTTP server using Elixir without the Phoenix framework.</p>
+  <p>This project demonstrates how to create a basic HTTP server using Elixir without using the Phoenix framework.
+  More specifically, it loads web pages, connects stylesheets, and images to to form a functional website. 
+</p>
   
 <h3>Instructions:</h3>
-
+<p>Must have Erlang/Elixir installed to work!</p>
 
 1. Clone Repository
 `git clone https://github.com/christhomas8/elixir-server.git`
