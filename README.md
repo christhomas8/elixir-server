@@ -20,6 +20,6 @@
 4. Go to link in browswer
 `localhost:4000/index`
 
-5. The resulting web page should load:
+5. The following web page should load:
 
 ![Server](images/server.png)
